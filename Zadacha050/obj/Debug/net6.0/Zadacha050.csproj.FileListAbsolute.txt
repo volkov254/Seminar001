@@ -1,0 +1,15 @@
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\bin\Debug\net6.0\Zadacha050.exe
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\bin\Debug\net6.0\Zadacha050.deps.json
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\bin\Debug\net6.0\Zadacha050.runtimeconfig.json
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\bin\Debug\net6.0\Zadacha050.dll
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\bin\Debug\net6.0\Zadacha050.pdb
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\obj\Debug\net6.0\Zadacha050.csproj.AssemblyReference.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\obj\Debug\net6.0\Zadacha050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\obj\Debug\net6.0\Zadacha050.AssemblyInfoInputs.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\obj\Debug\net6.0\Zadacha050.AssemblyInfo.cs
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\obj\Debug\net6.0\Zadacha050.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\obj\Debug\net6.0\Zadacha050.dll
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\obj\Debug\net6.0\refint\Zadacha050.dll
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\obj\Debug\net6.0\Zadacha050.pdb
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\obj\Debug\net6.0\Zadacha050.genruntimeconfig.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\Seminar 002\Seminar001\Zadacha050\obj\Debug\net6.0\ref\Zadacha050.dll
